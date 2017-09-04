@@ -1,1 +1,1 @@
-## [https://shierby.github.io](http://www.dropwizard.io/1.0.2/docs/) - Link to my app
+## [https://shierby.github.io](https://shierby.github.io/) - Link to my app
